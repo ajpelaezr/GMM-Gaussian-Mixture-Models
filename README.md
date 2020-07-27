@@ -1,4 +1,4 @@
-# Gaussian_Mixture_Models
+# Gaussian Mixture Models
 This is the code for "Gaussian Mixture Models - The Math of Intelligence (Week 7)" By Siraj Raval.
 
 ## Overview
