@@ -1,7 +1,4 @@
-# Gaussian Mixture Models
-This is the code for "Gaussian Mixture Models - The Math of Intelligence (Week 7)" By Siraj Raval.
-
-## Overview
+# Overview
 
 This is the code for Siraj Raval as part of The Math of Intelligence series. 
 This is a lesson on Gaussian Mixture Models, they are probability distributions that consist of multiple Gaussian distributions.
