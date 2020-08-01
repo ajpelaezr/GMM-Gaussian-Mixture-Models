@@ -8,10 +8,10 @@ algorithm.
 
 ## Notebook
 
-|Description|Path|
-|-----------|----|
-| Intro to GMM|[intro_to_gmm_em.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/Gaussian_Mixture_Models/blob/master/intro_to_gmm_%26_em.ipynb)|
-|GMM covariances|[]()|
+|Date|Description|Path|
+|----|-----------|----|
+| 01-08-2020 |Intro to GMM|[intro_to_gmm_em.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/Gaussian_Mixture_Models/blob/master/intro_to_gmm_%26_em.ipynb)|
+| 01-08-2020 |GMM covariances|[plot_gmm_covariances.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/GMM-Gaussian-Mixture-Models/blob/master/plot_gmm_covariances.ipynb)|
 
 ## Dependencies
 
