@@ -1,4 +1,11 @@
-# Overview
+# GMM: Gaussian Mixture Models
+
+Instructor: _Sergio Alberto Mora Pardo_
+* email: sergiomora823@gmail.com
+* LinkedIn: [sergiomorapardo](https://www.linkedin.com/in/sergiomorapardo/)
+* github: [sergiomora03](https://github.com/sergiomora03)
+
+### Overview
 
 This is the code for Siraj Raval as part of The Math of Intelligence series. 
 This is a lesson on Gaussian Mixture Models, they are probability distributions that consist of multiple Gaussian distributions.
