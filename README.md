@@ -39,6 +39,6 @@ Install jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html).
 
 The credits for this code go to [bspiering](https://github.com/brianspiering). Ive merely created a wrapper to get people started
 
-## Documentation sklearn
+## Sklearn
 [GaussianMixture](https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html#sklearn.mixture.GaussianMixture)
 
