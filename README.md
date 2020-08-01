@@ -1,7 +1,7 @@
 # GMM: Gaussian Mixture Models
 
 Instructor: _Sergio Alberto Mora Pardo_
-* email: sergiomora823@gmail.com
+* email: [sergiomora823@gmail.com](mailto:sergiomora823@gmail.com)
 * LinkedIn: [sergiomorapardo](https://www.linkedin.com/in/sergiomorapardo/)
 * github: [sergiomora03](https://github.com/sergiomora03)
 
