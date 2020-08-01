@@ -10,7 +10,8 @@ algorithm.
 
 |Description|Path|
 |-----------|----|
-|Notebook|[Gaussian Mixture Models](https://nbviewer.jupyter.org/github/sergiomora03/Gaussian_Mixture_Models/blob/master/intro_to_gmm_%26_em.ipynb)|
+| Intro to GMM|[intro_to_gmm_em.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/Gaussian_Mixture_Models/blob/master/intro_to_gmm_%26_em.ipynb)|
+|GMM covariances|[]()|
 
 ## Dependencies
 
