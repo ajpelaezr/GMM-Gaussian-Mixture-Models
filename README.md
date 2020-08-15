@@ -23,6 +23,12 @@ algorithm.
 | 15-08-2020 |data GMM|[datos_gmm](https://github.com/ajpelaezr/datos_gmm)|
 | 15-08-2020 |Aplicación GMM|[15082020.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/GMM-Gaussian-Mixture-Models/blob/master/15082020.ipynb)|
 
+## Aditional (Bonus)
+
+|Date|Description|Path|
+|----|-----------|----|
+| 15-08-2020 | Density Estimation for a Gaussian mixture |[plot_gmm_pdf.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/GMM-Gaussian-Mixture-Models/blob/master/plot_gmm_pdf.ipynb)|
+| 15-08-2020 |  Gaussian Mixture Model Selection  |[plot_gmm_selection.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/GMM-Gaussian-Mixture-Models/blob/master/plot_gmm_selection.ipynb)|
 
 ## Dependencies
 
