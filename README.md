@@ -21,6 +21,7 @@ algorithm.
 | 01-08-2020 |GMM covariances|[plot_gmm_covariances.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/GMM-Gaussian-Mixture-Models/blob/master/plot_gmm_covariances.ipynb)|
 | 15-08-2020 |Example GMM|[gmm_restaurant.ipynb](https://nbviewer.jupyter.org/github/conorosully/medium-articles/blob/master/src/gmm_restaurant.ipynb)|
 | 15-08-2020 |data GMM|[datos_gmm](https://github.com/ajpelaezr/datos_gmm)|
+| 15-08-2020 |Aplicación GMM|[15082020.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/GMM-Gaussian-Mixture-Models/blob/master/15082020.ipynb)|
 
 
 ## Dependencies
